@@ -1,0 +1,25 @@
+{
+  "name": "discord-kayit-sistemi",
+  "version": "1.0.0",
+  "description": "Discord.js v14 ile geliştirilmiş kapsamlı kayıt sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "kayıt",
+    "register",
+    "discord.js"
+  ],
+  "author": "Bot Geliştirici",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
